@@ -1,0 +1,36 @@
+# How to play
+1. Install Python : Ensure you have Python installed on your computer. You can download it from the official website: https://www.python.org/downloads/ .
+
+2. Install Pygame : Open a terminal or command prompt and install the Pygame library by running the following command:-
+   for example - pip install pygame
+
+3. Download the Game Files : Save all the game files (e.g., main.py, bird.png, pipe_png.png, background.jpg) in a single folder on your computer.
+
+4. Run the Game 
+   ~ Open a terminal or command prompt.
+   ~ Navigate to the folder where you saved the game files using the cd command. For example:
+     cd path/to/your/game/folder
+   ~ Run the game by typing the following command and pressing Enter:
+
+5. Enter Your Name :
+    When the game starts, you will see a screen prompting you to enter your name.
+    Type your name using your keyboard.
+    Press Enter to proceed to the game.
+
+6.  Play the Game :
+    Use the Spacebar to make the bird flap its wings and fly upwards.
+    Avoid the pipes by flying through the gaps between them.
+   The game gets progressively harder as the pipes move faster over time.
+
+7.  Game Over :
+    If the bird collides with a pipe or touches the ground, the game will end.
+    A scorecard will appear showing your final score and player name.
+    To play again, press the Spacebar .
+    To quit the game, press the Q key.
+
+8.   Customize (Optional) :
+    Replace the default images (bird.png, pipe_png.png, background.jpg) with your own custom images to personalize the game.
+    Ensure the new images are named the same as the original ones and placed in the same folder.
+
+##Enjoy playing Flappy Bird! 🎮
+

@@ -18,11 +18,11 @@ pygame.display.set_caption("Flappy Bird")
 clock = pygame.time.Clock()
 FPS = 60
 
-# ======== IMAGE PATHS ======== #
+
 BIRD_IMAGE_PATH = "bird.png"        # Must be PNG
 PIPE_IMAGE_PATH = "pipe.png"    # Must be PNG
 BACKGROUND_IMAGE_PATH = "background.jpg"  # Remove if not using
-# ============================= #
+
 
 try:
     # Load images with transparency

@@ -10,4 +10,4 @@ Responsive Design : Smooth animations and collision detection for an engaging ex
 Cross-Platform : Runs on any platform that supports Python and Pygame.
 
 
-![image](https://github.com/user-attachments/assets/c553c7ac-cf78-40a4-bd14-7bd09efc34a2)
+

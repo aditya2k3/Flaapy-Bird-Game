@@ -1,4 +1,4 @@
-# Flaapy-Bird-Game
+# Flappy-Bird-Game
 A simple yet fun implementation of the classic Flappy Bird game using the Pygame library in Python. This project is perfect for beginners who want to learn game development or for anyone looking for a lightweight version of the game to enjoy!
 
 Features
